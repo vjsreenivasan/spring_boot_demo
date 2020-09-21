@@ -1,11 +1,4 @@
-# Welcome to Telenor's take-home assignment
-**Congratulations on making it this far! Great job!**
-The purpose of this assignment is to give you an opportunity to demonstrate some code.
-The requirement is simple, but it is important to demonstrate clean code and good test coverage.
-Do the absolute minimum work required for the application. Out of the box configurations and in-memory DBs will do just fine.
-There is no time limit, but it shouldn't take more than 60-90min. 
 
----
 
 In a basic Dockerized Springboot Maven application, build a single REST API endpoint that returns a filtered set of products from the provided data in the data.csv file
 
@@ -52,6 +45,7 @@ We should be able to:
 Please provide an archive with the source code and a list of the terminal commands to build and run the application.
 
 In this app, I used H2 in-memory database
+
 **To Run without Docker**
 
 ```
